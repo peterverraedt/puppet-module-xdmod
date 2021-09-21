@@ -50,7 +50,7 @@
     },
     {
       "name": "saz/sudo",
-      "version_requirement": ">= 3.0.0 <7.0.0"
+      "version_requirement": ">= 3.0.0 <8.0.0"
     },
     {
       "name": "treydock/pcp",
